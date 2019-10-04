@@ -1,4 +1,4 @@
-# Simple CRUD Pengelola Data Mahasiswa Denganan Laravel
+# Simple CRUD Pengelola Data Mahasiswa Dengan Laravel
 
 > Resfrensi Tutorial Ini Saya Dapat Dari **Web Programing UNPAS**
 
